@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- Growing  as  a  MERN  Developer  🪴 
-- Proficient  in  React.js  🌻  and  Node.js  🌏
-- Currently  learning  Next.js  📚
-- 📫 How  to  reach  me:  https://www.linkedin.com/in/ankit-kumar-9a8381167/
+- 🪴 I'm Growing  as  a  MERN  Developer   
+- I'm  proficient  in  React.js  🌻  and  Node.js  🌏
+- I’m  currently  learning  Next.js  📚
+- 📫  How  to  reach  me:  https://www.linkedin.com/in/ankit-kumar-9a8381167/
 
 <!--
 **itank-z/itank-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
