@@ -3,7 +3,7 @@
 - 🪴 I'm growing  as  a  MERN  Developer   
 - I'm  proficient  in  React.js  🌻  and  Node.js  🌏
 - I’m  currently  learning  Next.js  📚
-- 📫  How  to  reach  me:  https://www.linkedin.com/in/ankit-kumar-9a8381167/
+- 📫  How  to  reach  me:  www.linkedin.com/in/itank-z
 
 <!--
 **itank-z/itank-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
