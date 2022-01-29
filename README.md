@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🪴 I'm Growing  as  a  MERN  Developer   
+- 🪴 I'm growing  as  a  MERN  Developer   
 - I'm  proficient  in  React.js  🌻  and  Node.js  🌏
 - I’m  currently  learning  Next.js  📚
 - 📫  How  to  reach  me:  https://www.linkedin.com/in/ankit-kumar-9a8381167/
