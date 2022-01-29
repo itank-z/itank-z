@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Growing  as  a  MERN  Developer  🪴
+Proficient  in  React.js 🌻  and  Node.js  🌏
+Currently  learning  Next.js  📚
+
 <!--
 **itank-z/itank-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
